@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by: HARINI G 
-Registeration Number :212221220017
+Developed by: HARIHARAN S 
+Registeration Number :212221220016
 */
 ```
 **Activity_xml File:**
